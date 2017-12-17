@@ -38,6 +38,10 @@
 			<false/>
 		</dict>
 	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Min text här</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Annan text här</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
