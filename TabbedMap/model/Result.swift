@@ -16,4 +16,5 @@ struct Result: Codable {
     let destination: Position?
     let duration: String?
     let sections: [Section]?
+    let vehicles: [Vehicle]?
 }

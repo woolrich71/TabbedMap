@@ -10,10 +10,16 @@ import Foundation
 struct Position: Codable {
     var lat: Float
     var lng: Float
+    var speed: Double?
     
     init(lat: Float, lng: Float) {
         self.lat = lat
         self.lng = lng
     }
+    
+    mutating func setSpeed(speed s: Double) {
+        speed = s
+    }
+    
     
 }

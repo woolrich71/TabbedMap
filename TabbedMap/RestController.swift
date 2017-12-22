@@ -22,8 +22,6 @@ class RestController {
         decoder.dateDecodingStrategy = .formatted(formatter)
         encoder = JSONEncoder()
         encoder.dateEncodingStrategy = .formatted(formatter)
-        
-        
     }
     
     func registerSettingsBundle(){

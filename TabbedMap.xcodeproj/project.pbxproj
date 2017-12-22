@@ -17,6 +17,7 @@
 		3B456E6C1FE1A6BA00C60A19 /* RestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B456E6B1FE1A6BA00C60A19 /* RestController.swift */; };
 		3B456E6E1FE1B6AC00C60A19 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B456E6D1FE1B6AC00C60A19 /* Endpoint.swift */; };
 		3B456E701FE30FDC00C60A19 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3B456E6F1FE30FDB00C60A19 /* Settings.bundle */; };
+		3B49641F1FEAB05000708B9C /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B49641E1FEAB05000708B9C /* Vehicle.swift */; };
 		3B4A222B1FDF1E6F0014E9BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4A222A1FDF1E6F0014E9BC /* AppDelegate.swift */; };
 		3B4A222D1FDF1E6F0014E9BC /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4A222C1FDF1E6F0014E9BC /* FirstViewController.swift */; };
 		3B4A222F1FDF1E6F0014E9BC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B4A222E1FDF1E6F0014E9BC /* SecondViewController.swift */; };
@@ -57,6 +58,7 @@
 		3B456E6B1FE1A6BA00C60A19 /* RestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestController.swift; sourceTree = "<group>"; };
 		3B456E6D1FE1B6AC00C60A19 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
 		3B456E6F1FE30FDB00C60A19 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		3B49641E1FEAB05000708B9C /* Vehicle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
 		3B4A22271FDF1E6F0014E9BC /* TabbedMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabbedMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4A222A1FDF1E6F0014E9BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B4A222C1FDF1E6F0014E9BC /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				3B456E641FE0726000C60A19 /* Result.swift */,
 				3B456E661FE073D800C60A19 /* Section.swift */,
 				3B456E6D1FE1B6AC00C60A19 /* Endpoint.swift */,
+				3B49641E1FEAB05000708B9C /* Vehicle.swift */,
 			);
 			path = model;
 			sourceTree = "<group>";
@@ -318,6 +321,7 @@
 				3B4A222F1FDF1E6F0014E9BC /* SecondViewController.swift in Sources */,
 				3B4A222B1FDF1E6F0014E9BC /* AppDelegate.swift in Sources */,
 				3B4A225D1FDF22F60014E9BC /* LocationService.swift in Sources */,
+				3B49641F1FEAB05000708B9C /* Vehicle.swift in Sources */,
 				3B456E6C1FE1A6BA00C60A19 /* RestController.swift in Sources */,
 				3B456E5D1FE06BF200C60A19 /* RestManger.swift in Sources */,
 				3B456E671FE073D800C60A19 /* Section.swift in Sources */,
